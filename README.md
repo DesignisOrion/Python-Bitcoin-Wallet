@@ -9,7 +9,7 @@ Today I wanted to learn more about crytocurrency and the trading markets. It gav
 
 ### Technologies Used:
 - Python 3
-- bitcoinlib
+- bitcoinlib (pip install bitcoinlib)
 
 
 
